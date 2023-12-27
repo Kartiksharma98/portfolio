@@ -1,0 +1,8 @@
+/* Navbar */
+.con1   {
+    
+}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+}
